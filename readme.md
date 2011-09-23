@@ -1,5 +1,7 @@
 #TOOLS TO EXPLORE
+
 ###Google fusion tables
+
 Site 
 
 * http://www.google.com/fusiontables/Home
@@ -7,7 +9,9 @@ Site
 How to 
 
 * http://michelleminkoff.com/2011/08/21/how-to-combine-multiple-fusion-tables-into-one-map/
+
 ###Frameworks: Django
+
 Guides 
 
 * https://docs.djangoproject.com/en/1.3/
@@ -17,7 +21,9 @@ Hosting
 * https://www.ep.io/
 * https://gondor.io/
 * https://www.dotcloud.com/
+
 ###Frameworks: Ruby on Rails
+
 Guides
 
 * http://guides.rubyonrails.org/
@@ -25,7 +31,9 @@ Guides
 Hosting
 
 * http://www.heroku.com/
+
 ###Build your own server
+
 Providers
 
 * http://aws.amazon.com/ec2/
